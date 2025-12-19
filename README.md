@@ -5,6 +5,7 @@ Exploratory data analysis of IPL 2022 using NumPy, Pandas, and Matplotlib.
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Objectives
 - Analyze team and player performance
